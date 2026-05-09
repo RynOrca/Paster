@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paster</string>
+    <string name="notification_channel_name">悬浮球服务</string>
+    <string name="notification_channel_desc">悬浮球正在后台运行</string>
+    <string name="notification_title">Paster</string>
+    <string name="notification_text">点击悬浮球复制最新截图到剪贴板</string>
+    <string name="copied_to_clipboard">已复制到剪贴板</string>
+    <string name="go_to_settings">去设置</string>
+</resources>
